@@ -1,50 +1,72 @@
-# Welcome to your Expo app 👋
+💪 Gym Management Mobile App (Frontend)
+This repository contains the frontend of a mobile application built with React Native and Expo, designed specifically for gym owners to manage all aspects of their gym operations through a simple and intuitive interface.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+📱 Cross-platform – runs on both iOS and Android devices.
+⚙️ Built with React Native + Expo – fast iteration and easy deployment.
 
-## Get started
+🔍 Project Overview
+The Gym Management App empowers gym owners to efficiently manage:
 
-1. Install dependencies
+👤 User accounts and memberships
 
-   ```bash
-   npm install
-   ```
+💳 Payment tracking
 
-2. Start the app
+📅 Subscription periods & attendance
 
-   ```bash
-   npx expo start
-   ```
+🏋️ Workout and exercise plans
 
-In the output, you'll find options to open the app in a
+🧑‍🏫 Coach assignments
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+🍽️ Diet and nutrition programs
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+✨ Features
+Feature Category	Description
+👥 Member Management	Create, update, or deactivate gym members and assign subscription dates.
+💰 Payments	View and track payment history, status, and due dates.
+📆 Schedules	Manage training and diet schedules per user.
+🏋️ Training Plans	Assign customized workout programs per individual or coach.
+🍎 Diet Planning	Input personalized eating and diet recommendations.
+📈 Progress	(Planned) Integration for tracking fitness progress and metrics.
 
-## Get a fresh project
+📦 Tech Stack
+React Native – for building the mobile app interface.
 
-When you're ready, run:
+Expo – for seamless development, testing, and deployment.
 
-```bash
-npm run reset-project
-```
+React Navigation – for screen and stack navigation.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+AsyncStorage (or other state management) – for handling local app state (if used).
 
-## Learn more
+(You can mention additional packages like Axios, Redux, Recoil, etc. if used.)
 
-To learn more about developing your project with Expo, look at the following resources:
+🚀 Getting Started
+Prerequisites
+Node.js >= 14.x
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Expo CLI:
 
-## Join the community
+bash
+Copy
+Edit
+npm install -g expo-cli
+Installation
+Clone the repository
 
-Join our community of developers creating universal apps.
+bash
+Copy
+Edit
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+Install dependencies
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+bash
+Copy
+Edit
+npm install
+Start the development server
+
+bash
+Copy
+Edit
+expo start
+Run the app on emulator or physical device using Expo Go
