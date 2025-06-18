@@ -54,23 +54,23 @@ The **Gym Management App** empowers gym owners to efficiently manage:
   npm install -g expo-cli
   ```
 ### Installation
-Clone the repository
+#### Clone the repository
 
 ````bash
 git clone https://github.com/tahangz/FitTrackApp-UI.git
 cd your-repo-name
 ````
-Install dependencies
+#### Install dependencies
 
 ````bash
 npm install
 ````
-Start the development server
+#### Start the development server
 
 ````bash
 expo start
 ````
-Run the app
+#### Run the app
 
 Download the Expo Go app from the App Store or Google Play.
 
