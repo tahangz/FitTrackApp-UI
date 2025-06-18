@@ -1,4 +1,4 @@
-# 💪 Gym Management Mobile App (Frontend)
+# 💪 FitTrack Gym Management Mobile App (Frontend)
 
 This repository contains the **frontend** of a mobile application built with **React Native** and **Expo**, designed specifically for **gym owners** to manage all aspects of their gym operations through a simple and intuitive interface.
 
