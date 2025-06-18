@@ -38,8 +38,8 @@ The **Gym Management App** empowers gym owners to efficiently manage:
 - **React Native** – for building the mobile app interface  
 - **Expo** – for seamless development, testing, and deployment  
 - **React Navigation** – for screen and stack navigation  
-- **AsyncStorage** – for handling local app state *(if used)*  
-- *(Other tools used: Axios, Redux, etc. – add them if applicable)*
+- **AsyncStorage** – for handling local app state  
+- **Axios, Redux**
 
 ---
 
