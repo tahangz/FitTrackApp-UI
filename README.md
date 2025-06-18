@@ -7,6 +7,11 @@ This repository contains the **frontend** of a mobile application built with **R
 
 ---
 
+<p align="center">
+  <img src="Screenshot 2025-05-29 220953.png" alt="Sample Gesture" width="1000"/>
+</p>
+
+
 ## 🔍 Project Overview
 
 The **Gym Management App** empowers gym owners to efficiently manage:
